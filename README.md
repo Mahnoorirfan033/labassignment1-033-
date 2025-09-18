@@ -1,7 +1,7 @@
 # Digital Blogging Website
 
 This is a simple **Digital Blogging Website** created for DevOps Assignment.  
-It includes three static pages built with **HTML5 & CSS3**:
+It includes three static pages which built with **HTML5 & CSS3**:
 
 - **Home (index.html):** Displays latest blog posts.  
 - **About (about.html):** Describes the purpose and mission of the blog.  
